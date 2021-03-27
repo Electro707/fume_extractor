@@ -6,10 +6,10 @@ This repository is for my personal fume extractor designs. It's still a work-in-
 
 ## Current Status
 
-Design 1 is fully modelled but still need testing:
+Design 1 (inspired by [https://www.thingiverse.com/thing:3474360](https://www.thingiverse.com/thing:3474360)) is fully modelled but still need testing:
 ![D1](.misc/Screenshot_20210327_010444.png)
 
-Design 2 is still a work-in-progress
+Design 2 (also inspired by [https://www.thingiverse.com/thing:3474360](https://www.thingiverse.com/thing:3474360)) is still a work-in-progress
 ![D2](.misc/Screenshot_20210327_010622.png)
 
 ## BOM:
