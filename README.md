@@ -1,17 +1,17 @@
 ## NOTE: THIS PROJECT IS STILL A WORK-IN-PROGRESS
 
 # Open Fume Extractor
-### By Electro707
+# By Electro707
 
 This repository is for my personal fume extractor designs. It's still a work-in-proress.
 
 ## Current Status
 
 Design 1 is fully modelled but still need testing:
-![D1](Screenshot_20210327_010444.png)
+![D1](.misc/Screenshot_20210327_010444.png)
 
 Design 2 is still a work-in-progress
-![D2](Screenshot_20210327_010622.png)
+![D2](.misc/Screenshot_20210327_010622.png)
 
 ## BOM:
 
